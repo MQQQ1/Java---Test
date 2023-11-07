@@ -17,11 +17,13 @@ public class Test {
         dog.age = 2;
         dog.yelling = "汪汪汪";
         dog.information();
+        dog.state();
 
         Cat cat = new Cat();
         cat.name = "哈基米";
         cat.age = 3;
         cat.yelling = "喵喵喵";
         cat.information();
+        cat.state();
     }
 }

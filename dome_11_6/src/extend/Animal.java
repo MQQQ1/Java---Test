@@ -17,7 +17,7 @@ public class Animal {
         this.yelling = yelling;
     }
     public void information(){
-        System.out.println("动物名：" +name + "年龄" + age + "叫声：" + yelling);
+        System.out.println("宠物名：" +name + "年龄" + age + "叫声：" + yelling);
     }
 }
 
